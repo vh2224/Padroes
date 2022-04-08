@@ -1,2 +1,0 @@
-# Padroes
-Padrões de Projetos
